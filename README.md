@@ -84,7 +84,8 @@ _@AI Application Lab (Mar. 2024 – Jun. 2024)_
 ## 🧾 Certifications
 
 - ✅ SQLD (SQL Developer) – 2024  
-- ✅ ADsP (Advanced Data Analytics Semi-Professional) – 2024  
+- ✅ ADsP (Advanced Data Analytics Semi-Professional) – 2023
+- ✅ TOEIC 800 - 2025
 
 ---
 
